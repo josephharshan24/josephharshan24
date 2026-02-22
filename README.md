@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 Improving my cybersecurity fundamentals and building security-focused backend projects.<br/>
-- 🌱 Cybersecurity fundamentals through Cisco Networking Academy and exploring security monitoring concepts.
-- 👯 Backend systems, security-focused applications, and beginner cybersecurity projects.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/joseph-harshan/)
-- ⚡ Fun fact: I enjoy breaking down complex technical problems and turning them into structured, secure solutions.
+ 🔭 Improving my cybersecurity fundamentals and building security-focused backend projects.<br/>
+ 🌱 Cybersecurity fundamentals through Cisco Networking Academy and exploring security monitoring concepts.
+ 👯 Backend systems, security-focused applications, and beginner cybersecurity projects.
+ 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/joseph-harshan/)
+ ⚡ Fun fact: I enjoy breaking down complex technical problems and turning them into structured, secure solutions.
 
 
 # 💻 Tech Stack:
